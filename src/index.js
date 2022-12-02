@@ -13,5 +13,12 @@ root.render(
       <h1>Weather App</h1>
       <Weather />
     </div>
+    <br />
+    <div>
+      <p>
+        <a href="https://github.com/keytaS/weather-react">Open-source code</a>{" "}
+        by Kateryna Saltykova
+      </p>
+    </div>
   </StrictMode>
 );
